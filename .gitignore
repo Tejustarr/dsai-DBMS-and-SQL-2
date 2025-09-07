@@ -1,0 +1,18 @@
+# Python / Notebooks
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# SQL / DB
+*.db
+*.sqlite
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual Environments
+venv/
+.env/
