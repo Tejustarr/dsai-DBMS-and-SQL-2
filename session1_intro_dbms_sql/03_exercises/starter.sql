@@ -1,2 +1,2 @@
-# starter.sql
-
+-- starter.sql
+-- Write your solutions here
